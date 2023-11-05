@@ -1,2 +1,2 @@
 # B1-PHP-TP1
-Vous trouverez içi tous les programmes en php pour le TP1
+Dans ce dossier, vous trouverez tous les codes effectués dans le TP.

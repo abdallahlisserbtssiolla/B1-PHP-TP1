@@ -1,3 +1,3 @@
 # B1-PHP-TP1
 
-Dans ce dépôt , vous trouverez le fichier "TP-php.txt" qui indique pour chaque question, le fichier php.
+Dans ce dépôt , vous trouverez les fichiers en php du TP1.

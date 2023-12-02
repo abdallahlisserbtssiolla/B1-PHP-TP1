@@ -1,0 +1,13 @@
+-------------------Exercice 1-----------------
+Question 4 à 6 :vitesse-1.php.
+Question 7 :vitesse-2.php.
+Question 8 et 9: vitesse-3.php.
+Question 10: vitesse-4.php
+-------------------Exercice 2-----------------
+kmhenNoeuds.php
+-------------------Exercice 3-----------------
+celsiusenFahrenheit.php
+-------------------Exercice 4-----------------
+montantTotalGroupeAdultes.php
+-------------------Exercice 5-----------------
+tarifReduitGroupe.php
